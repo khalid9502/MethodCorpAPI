@@ -1,0 +1,12 @@
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\`.exe.config
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\`.exe
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\`.pdb
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\com.methodcorp.security.dll
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\Newtonsoft.Json.dll
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\System.Net.Http.Formatting.dll
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\com.methodcorp.security.pdb
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\Newtonsoft.Json.xml
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\bin\Debug\System.Net.Http.Formatting.xml
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\obj\Debug\SecurityClient.csprojResolveAssemblyReference.cache
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\obj\Debug\`.exe
+C:\Development\Khalid\MethodCorp.Security\SecurityClient\obj\Debug\`.pdb

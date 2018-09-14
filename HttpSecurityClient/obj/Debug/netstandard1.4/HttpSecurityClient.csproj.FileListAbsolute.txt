@@ -1,0 +1,8 @@
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\bin\Debug\netstandard1.4\HttpSecurityClient.deps.json
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\bin\Debug\netstandard1.4\HttpSecurityClient.dll
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\bin\Debug\netstandard1.4\HttpSecurityClient.pdb
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\obj\Debug\netstandard1.4\HttpSecurityClient.csproj.CoreCompileInputs.cache
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\obj\Debug\netstandard1.4\HttpSecurityClient.AssemblyInfo.cs
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\obj\Debug\netstandard1.4\HttpSecurityClient.dll
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\obj\Debug\netstandard1.4\HttpSecurityClient.pdb
+C:\Development\Khalid\MethodCorp.Security\HttpSecurityClient\obj\Debug\netstandard1.4\HttpSecurityClient.csprojResolveAssemblyReference.cache

@@ -1,0 +1,9 @@
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\bin\Debug\MethodCorp.Security.exe.config
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\bin\Debug\MethodCorp.Security.exe
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\bin\Debug\MethodCorp.Security.pdb
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.Properties.Resources.resources
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.csproj.GenerateResource.Cache
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.exe
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.pdb
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.csproj.CoreCompileInputs.cache
+C:\Development\Khalid\MethodCorp.Security\MethodCorp.Security\obj\Debug\MethodCorp.Security.csprojResolveAssemblyReference.cache
